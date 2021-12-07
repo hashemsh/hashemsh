@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sheikhypour@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hashemsheikhypour/](https://www.linkedin.com/in/hashemsheikhypour/)
+- 📄 Know about my experiences [SoloLearn](https://www.sololearn.com/profile/3932515)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
