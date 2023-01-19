@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hashem Sheikhypour</h1>
-<h3 align="center">A Web Developer from Iran</h3>
+<h3 align="center">just junior programmer</h3>
 
-- 🔭 I’m currently working on **EzztCorp Website**
+- 🔭 I’m currently working on **EzztCorp** Web Developer 
 
-- 🌱 I’m currently learning **Laravel, Flutter , Java and etc**
+- 🌱 I’m currently learning **Laravel, Flutter and etc**
 
-- 💬 Ask me about **php Developer , Frontend Developer and sometimes GoogleAds Manager**
+- 💬 Looking for **Learning** and **improve mySelf and mySkills**
 
 - 📫 How to reach me **sheikhypour@gmail.com**
 
-- 📄 Know about my experiences [SoloLearn](https://www.sololearn.com/profile/3932515)
+- 📄 I love [SoloLearn](https://www.sololearn.com/profile/3932515) if want follow me 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
