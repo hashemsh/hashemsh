@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/cyberpunk-banner.png" width="100%" alt="Cyberpunk neon city banner">
+<img src="assets/cyberpunk-banner-animated.svg" width="100%" alt="Hashem Sheikhypour">
 
 <br>
 
